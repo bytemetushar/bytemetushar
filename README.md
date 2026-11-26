@@ -1,139 +1,214 @@
-# Hey, I'm Tushar Varshney 👋
 
-### Full Stack Developer | MERN Stack | AI Enthusiast | Problem Solver
+<!-- ================= HEADER ================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=190&section=header&text=Tushar%20Varshney&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20Ideas%20Into%20Digital%20Solutions&descAlignY=58&descSize=16" width="100%" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=220&section=header&text=Tushar%20Varshney&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20%7C%20DSA&descAlignY=60&descSize=17&animation=fadeIn" />
+
+<h2>Hey there! I'm Tushar 👋</h2>
+
+<p>
+  <b>Full Stack Developer | MERN Stack | AI Enthusiast | Problem Solver</b>
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/bytemetushar">
-    <img src="https://komarev.com/ghpvc/?username=bytemetushar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/GitHub-bytemetushar-181717?style=for-the-badge&logo=github"/>
   </a>
-  <img src="https://img.shields.io/github/followers/bytemetushar?label=Followers&style=flat&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=bytemetushar&style=for-the-badge&color=blueviolet"/>
 </p>
+
+</div>
 
 ---
+
+<!-- ================= ABOUT ================= -->
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer who enjoys building practical applications, exploring emerging technologies, and solving real-world problems through code.
+I'm a passionate software developer who loves turning ideas into real-world applications.
 
-- 🔭 Working on **Full Stack & AI-powered applications**
-- 🌱 Exploring **Advanced MERN Stack, AI integration & System Design**
-- 💻 Practicing **Data Structures & Algorithms**
-- 🚀 Interested in building scalable and impactful products
-- 🤝 Open to collaborating on innovative projects and open-source contributions
-- ⚡ Believe in learning by building.
+- 🔭 Interested in building scalable full-stack applications.
+- 💻 Focused on MERN Stack Development.
+- 🤖 Exploring AI-powered applications and Generative AI.
+- 🧠 Practicing Data Structures and Algorithms.
+- 🚀 Building projects that solve practical problems.
+- 🤝 Open to collaboration, internships and open-source opportunities.
+
+**My philosophy:** Learn continuously, build consistently, and solve real problems.
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## ⚡ Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+</p>
+
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,java" />
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma,docker,cloudinary" />
+</p>
+
+### AI & Emerging Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Integration-2563EB?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
-</p>
-
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java,python" />
-</p>
-
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma,cloudinary,docker" />
-</p>
-
-### Currently Exploring
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-222222?style=for-the-badge" />
-</p>
-
----
+<!-- ================= PROJECTS ================= -->
 
 ## 🚀 Featured Projects
 
-### 1. IntelliSignal
-**AI-powered Adaptive Traffic Management System**
+<table>
+<tr>
+<td width="50%">
 
-An intelligent traffic management concept designed to optimize traffic signals using adaptive decision-making and hardware integration.
+### 🚦 IntelliSignal
 
-`AI` `IoT` `ESP8266` `Sensors` `Smart Traffic`
+AI-powered adaptive traffic management concept.
 
-### 2. Ujjwalit
-**A Platform for Learning Data Structures & Algorithms**
+- Intelligent traffic optimization
+- Hardware and sensor integration
+- Smart city applications
 
-An educational platform focused on making programming concepts and DSA easier to understand.
+`AI` `IoT` `ESP8266`
 
-`Web Development` `JavaScript` `DSA` `Education`
+</td>
+<td width="50%">
 
-### 3. Brain Bazaar
-**A Marketplace for Digital Projects**
+### 📚 Ujjwalit
 
-A platform concept for discovering and selling web development, MERN stack, and AI-based projects.
+A platform focused on learning Data Structures and Algorithms.
 
-`MERN Stack` `E-Commerce` `Full Stack`
+- Educational content
+- Programming concepts
+- DSA learning resources
 
-### 4. ExpertAdviceHub
-**An Expert Consultation Platform**
+`Web Development` `DSA`
 
-An application concept connecting users with specialists through a structured digital platform.
+</td>
+</tr>
 
-`React` `Node.js` `MongoDB` `Full Stack`
+<tr>
+<td width="50%">
 
-> Replace the project names above with links to their actual GitHub repositories once published.
+### 🛒 Brain Bazaar
+
+A marketplace concept for digital development projects.
+
+- MERN-based product concept
+- Project discovery
+- Digital solutions marketplace
+
+`MERN` `E-Commerce`
+
+</td>
+<td width="50%">
+
+### 💡 ExpertAdviceHub
+
+An expert consultation platform concept.
+
+- Specialist discovery
+- Client and expert workflows
+- Dashboard-based application
+
+`React` `Node.js` `MongoDB`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ================= ACHIEVEMENTS ================= -->
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bytemetushar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytemetushar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bytemetushar&theme=tokyonight&hide_border=true" width="70%" />
-</p>
+- 🥈 **2nd Runner-up – Hack The Future 2.0**
+  - Tula's Institute, Dehradun
+  - Among 70+ participating teams.
+  - Project: IntelliSignal (Adaptive AI Traffic Management).
 
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bytemetushar/bytemetushar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-</p>
+- 👨‍💻 Head of Computer Science Student Society (CSSS).
+- 🚀 Participated in hackathons and technical events.
+- 🌐 Interested in building impactful software products.
 
 ---
 
-## 🎯 My Current Goals
+<!-- ================= GITHUB STATS ================= -->
 
-- Build production-ready full-stack applications.
-- Integrate AI into real-world software products.
-- Strengthen DSA and problem-solving skills.
-- Contribute to open-source projects.
-- Keep learning, building, and improving every day.
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bytemetushar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytemetushar&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=bytemetushar&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+<!-- ================= CONTRIBUTION GRAPH ================= -->
 
-<p align="center">
-  <a href="https://github.com/bytemetushar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+## 🐍 Contribution Graph
 
-<p align="center">
-  ### 💡 "Code. Create. Innovate. Repeat."
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+<img src="https://raw.githubusercontent.com/bytemetushar/bytemetushar/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/bytemetushar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Replace with your actual LinkedIn URL -->
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<!-- Replace with your actual portfolio URL -->
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Code. Build. Learn. Innovate. Repeat.
+
+*Thanks for visiting my GitHub profile!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:0F172A&height=100&section=footer"/>
+
+</div>
